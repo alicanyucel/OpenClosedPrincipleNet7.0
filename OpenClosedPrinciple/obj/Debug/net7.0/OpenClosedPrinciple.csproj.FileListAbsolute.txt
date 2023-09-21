@@ -1,0 +1,5 @@
+C:\Users\Alican\source\repos\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net7.0\OpenClosedPrinciple.csproj.AssemblyReference.cache
+C:\Users\Alican\source\repos\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net7.0\OpenClosedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alican\source\repos\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net7.0\OpenClosedPrinciple.AssemblyInfoInputs.cache
+C:\Users\Alican\source\repos\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net7.0\OpenClosedPrinciple.AssemblyInfo.cs
+C:\Users\Alican\source\repos\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net7.0\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
